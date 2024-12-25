@@ -17,7 +17,7 @@
 </div>
 
 @empty
-<div>There are no tasks</div>
+<div>There are no tasks!!!</div>
 @endforelse
 
 @if($tasks->count())
